@@ -1,3 +1,9 @@
+---
+title: "sql优化1"
+date: 2019-06-01
+draft: true
+---
+
 ### 原sql
 ```sql
 SELECT co.class_teacher_id,na.realname

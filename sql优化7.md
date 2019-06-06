@@ -1,3 +1,9 @@
+---
+title: "sql优化7"
+date: 2019-06-01
+draft: true
+---
+
 ### 原sql
 ```sql
 ```
@@ -8,8 +14,6 @@
 ```
 
 ### 根据查询计划分析出
-1\. 多余的查询条件 class_out_id > 0 
-2\. class_time筛选时间性能低
 
 ### 优化后的sql
 ```sql
