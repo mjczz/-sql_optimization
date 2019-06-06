@@ -1,5 +1,5 @@
 ---
-title: "sql优化7"
+title: "sql优化模板"
 date: 2019-06-01
 draft: true
 ---
